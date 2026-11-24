@@ -99,6 +99,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IModellLocalData.cs" />
+    <Compile Include="XMLModell.cs" />
     <Compile Include="ControllerECG.cs" />
     <Compile Include="ECGDataRecievedEventArgs.cs" />
     <Compile Include="ECGValue.cs" />
